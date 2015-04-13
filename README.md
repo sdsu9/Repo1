@@ -1,2 +1,2 @@
 # Repo1
-my first repository
+I am excited to learn :book: and code :computer:.
